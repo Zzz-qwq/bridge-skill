@@ -1,5 +1,7 @@
 *
 !.gitignore
 !README.md
+!复用性盲测.md
+!验收记录.md
 !bridge/
 !bridge/**
